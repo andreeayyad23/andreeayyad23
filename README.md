@@ -15,7 +15,7 @@ I Love to solve algorothim and designing apps
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andreh-ayad-418459306/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andree ayyad" height="30" width="40" /></a>
-<a href="https://fb.com/andree ayyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andree ayyad" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Andree.A.Ayyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andree ayyad" height="30" width="40" /></a>
 <a href="https://instagram.com/andree ayyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andree ayyad" height="30" width="40" /></a>
 </p>
 
