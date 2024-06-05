@@ -13,7 +13,8 @@ I Love to solve algorothim and designing apps
 - ⚡ Fun fact **I love reading 📖 and writing ✍️.**
 
 - **Projects:**
-- <img src="https://camo.githubusercontent.com/cd4b94fb83d0d322787c4de19ddce580678475f6d73cf3169fd12010cb0adc99/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d56697369742d677265656e3f6c6f676f3d676f6f676c652d6368726f6d65" alt="BOOKSTORE WEBSITE" data-canonical-src="https://img.shields.io/badge/Website-Visit-green?logo=google-chrome" style="max-width: 100%;">
+**Visit website:** [http://13.50.247.112/main](http://13.50.247.112/main)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
