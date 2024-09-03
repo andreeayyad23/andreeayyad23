@@ -1,7 +1,4 @@
 Welcome to My ReadMe File
-
-<img src="https://camo.githubusercontent.com/2428ac7bcab75ceddfa1e3da7ec2e29fbcb078c3ac2c18fa43d5804e25dd2666/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d53617261536165656431266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Sara Saeed" data-canonical-src="https://komarev.com/ghpvc/?username=SaraSaeed1&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
-
 <h1 align="center">Hi 👋, I'm Andree Ayyad</h1>
 <h3 align="start">Full-Stack developer</h3>
 I Love to solve algorothim and designing apps
