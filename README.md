@@ -10,6 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="100" height="100"/>
 </p>
 
 ---
@@ -56,6 +57,9 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -73,11 +77,8 @@
   <a href="https://www.linkedin.com/in/andreh-ayad-418459306/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://www.facebook.com/Andree.A.Ayyad" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </a>
   <a href="https://www.instagram.com/andree_ayyad/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
 
@@ -102,13 +103,3 @@
 ### 🔥 Fun Fact:
 
 > "I believe learning never stops, and coding is like solving puzzles with infinite pieces!"
-
----
-
-### ✍️ How to Use This Markdown:
-This README uses :
-- Markdown for structure
-- Images hosted on GitHub/CDN services
-- Tools like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-
-To replicate this, copy the structure and customize it as needed!
