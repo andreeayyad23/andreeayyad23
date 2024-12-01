@@ -66,7 +66,6 @@
 
 ### ✨ Projects:
 
-- 💻 Visit my **Portfolio Website**: [My Portfolio](http://13.50.247.112/main)
 - 🔗 Check out my GitHub repositories: [GitHub](https://github.com/andreeayyad23)
 
 ---
